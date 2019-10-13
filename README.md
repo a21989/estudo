@@ -6,11 +6,8 @@ Não é muita coisa e é por isso mesmo que decidi publicar os meus materiais de
 
 ## Licença
 
-Todos os documentos encontram-se sobre a licença ***Creative Commons Attribution Share Alike 4.0 International***.
+Todos os documentos encontram-se sobre a licença:  
+[***Creative Commons Attribution Share Alike 4.0 International (CC-BY-SA-4.0)***](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Mais informações em:
-
-* https://creativecommons.org/licenses/by-sa/4.0/
-* https://choosealicense.com/licenses/cc-by-sa-4.0/
 
 [Ver licença](LICENSE)
