@@ -77,24 +77,3 @@ Pregação:
 * Meio de comunicação usado para divulgação do Evangelho;
 
 Na grande crise religiosa do século anterior a estratégia católica viu-se perante dupla necessidade evangelizadora. Elaborou-se um vasto programa de divulgação da doutrina através da formação de sacerdotes, na pregação e no ensino do catecismo.
-
-### Sermão
-
-#### Estrutura
-
-| Parte | Função |
-| --- | --- |
-| Introdução: **exórdio** | 
-
-#### Objetivos
-
-* ***Docere* (Ensinar)**:
-  * Fazer a divulgação do Evangelho;
-  * Expor alguns conceitos doutrinais.
-
-*  ***Movere***:
-   *  Mover ou influenciar o comportamento do ouvinte.
-   *  \+ os mesmos pontos do docere
-
-*  ***Delectare* (deleitar)**:
-   *  Captar a atenção pelo prazer, puro gozo intelectual, terror e piedade.
