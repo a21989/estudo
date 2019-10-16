@@ -2,6 +2,9 @@
 
 Apontamentos de ajuda ao estudo que escrevi ao longo do 10º e 11º anos.
 
+> **NOTA:**  
+> Alguns documentos podem (e devem) estar incompletos.
+
 ## Licença
 
 Todos os documentos encontram-se sobre a licença:  
