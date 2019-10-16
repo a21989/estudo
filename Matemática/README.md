@@ -4,3 +4,5 @@
 > **Exemplo:**  
 > $$ \frac{\sin^2 \alpha}{\cos^2 \alpha} + \frac{\cos^2 \alpha}{\cos^2 \alpha} + \frac{1}{\cos^2 \alpha} \Leftrightarrow $$
 > $$ \Leftrightarrow \tan^2 \alpha + 1 = \frac{1}{\cos^2 \alpha} $$
+
+![](img.png)
