@@ -1,8 +1,6 @@
 # estudo
 
-Materiais de estudo que escrevi.
-
-Não é muita coisa e é por isso mesmo que decidi publicar os meus materiais de estudo: para me incentivar a mim mesmo a estudar mais.
+Apontamentos de ajuda ao estudo que escrevi ao longo do 10º e 11º anos.
 
 ## Licença
 
