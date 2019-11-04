@@ -1,3 +1,5 @@
+# Composição química dos ácidos nucleicos - DNA & RNA
+
 Os ácidos nucleicos são moléculas constituídas por unidades básicas designadas **nucleótidos**.
 
 * **DNA**: Ácido **desoxi**rribonucleico
@@ -24,11 +26,11 @@ Os ácidos nucleicos são moléculas constituídas por unidades básicas designa
 
 | Bases púricas | | Bases pirimídicas |
 | ---: | :---: | :--- |
-| Adenina | $=$ | Timina (DNA) / Uracilo (RNA) |
-| Guanina | $\equiv$ | Citosina |
+| Adenina | = | Timina (DNA) / Uracilo (RNA) |
+| Guanina | ≡ | Citosina |
 
-$\text{A} = \text{T/U}$  
-$\text{C} \equiv \text{G}$
+A = T/U  
+C ≡ G
 
 Os nucleótidos estabelecem ligações entre si formando cadeias polinucleotídicas. Estas ligações estabelecem-se entre o grupo fosfato de um dos nucleótidos e o carbono 3’ da pentose do nucleótido seguinte. Estas ligações designam-se ligações fosfodiéster. [p. 19]
 
