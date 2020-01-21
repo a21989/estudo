@@ -24,11 +24,11 @@ Processo planeado que visa melhorar as capacidades de trabalho de um indivíduo 
 
 ## Efeitos do Treino
 
+![](img/Princípios%20do%20treino%20%288%29/Efeitos%20do%20Treino%20(1).png)
+
 O treino provoca fadiga e conduz a uma diminuição da capacidade funcional para níveis inferiores ao inicial (ver gráfico: fase A-B). Por isso, no final da sessão de treino, o indivíduo encontra-se cansado.
 
 Após a sessão de treino, inicia-se a recuperação do organismo (ver gráfico: fase B-C). Nesta fase, o **repouso** e a **alimentação adequada** são determinantes. Esta recuperação é fundamental, pois permite uma adaptação que se traduz por um nível de capacidade funcional superior aos valores iniciais – **super compensação** (ver gráfico: fase C-D).
-
-![](img/Princípios%20do%20treino%20%288%29/Efeitos%20do%20Treino%20(1).png)
 
 É pela utilização de cargas de treino progressivamente superiores que devem ser trabalhadas as várias capacidades físicas, incrementando desta forma o aumento dos níveis de aptidão física.
 

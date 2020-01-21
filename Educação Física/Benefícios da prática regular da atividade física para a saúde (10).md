@@ -16,28 +16,28 @@ O exercício físico devidamente enquadrado e orientado produz efeitos benéfico
 * Melhora a capacidade de aprendizagem;
 * Ajuda a prevenir e controlar comportamentos de risco (tabagismo, alcoolismo, toxicofilias, alimentação não saudável e violência), especialmente em crianças e adolescentes.
 
-## Peso e composição corporal
+### Peso e composição corporal
 
 * Diminuição da gordura corporal – por aumento do consumo das gorduras;
 * Diminuição do IMC (**Í**ndice de **M**assa **C**orporal – relação entre o peso e a altura do indivíduo).
 
-## Aparelho locomotor
+### Aparelho locomotor
 
 * Aumento do tamanho do músculo (hipertrofia), aumentando a força e resistência muscular;
 * Aumento das reservas energéticas musculares (glicogénio muscular);
 * Aumento da mobilidade articular;
 * Ajuda a prevenir e a reduzir a osteoporose, aumentando a densidade e a resistência óssea.
 
-## Sistema cardiovascular
+### Sistema cardiovascular
 
 * Aumenta o tamanho do coração (por aumento do tamanho das suas cavidades e manutenção da espessura das paredes), logo aumenta a sua força de contração e quantidade de sangue que está dentro do coração, logo…
 * Aumenta a quantidade de sangue que é bombeado, logo…
-* Aumenta a quantidade de oxigénio que é transportado para os músculos; 
-•	Diminui a FC em repouso e em esforço (mais sangue e O2 implica menos necessidade de FC), logo poupa o coração;
+* Aumenta a quantidade de oxigénio que é transportado para os músculos;
+* Diminui a FC em repouso e em esforço (mais sangue e O2 implica menos necessidade de FC), logo poupa o coração;
 * Aumento da rede capilar (numero e tamanho dos vasos sanguíneos), logo o sangue chega em maior quantidade ao músculo o que possibilita maiores trocas de O2 e CO2 e maior recuperação do esforço e da fadiga muscular;
 * Aumenta a capacidade de dilatação e contração dos capilares, diminuindo a hipertensão arterial.
 
-## Sistema respiratório (pulmonar)
+### Sistema respiratório (pulmonar)
 
 * Aumenta o volume dos pulmões (capacidade respiratória), o que permite aumentar a quantidade de ar inspirado e expirado;
 * Aumenta a quantidade de alvéolos pulmonares em funcionamento, logo…
