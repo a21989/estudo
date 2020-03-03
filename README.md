@@ -2,8 +2,10 @@
 
 Apontamentos de ajuda ao estudo que escrevi ao longo do 10º e 11º anos.
 
-> **NOTA:**  
-> Alguns documentos podem (e devem) estar incompletos.
+## Notas
+
+* A maioria dos documentos foram feitos para serem vistos por pessoas que já estudaram previamente a matéria pelo manual, e não para quem está a ver os conceitos descritos pela primeira vez.
+* Alguns documentos podem estar incompletos, não incluindo toda a matéria de um certo tópico ou não falando de todos os conceitos de que o manual fala.
 
 ## [Licença](LICENSE)
 
