@@ -47,4 +47,4 @@ Existem dois tipos de metamorfismo primário:
 * **De contacto** – Temperatura dominante resultante, por exemplo, de uma intrusão magmática (A);
 * **Regional** – Pressão dominante resultante, por exemplo, do impacto de um asteroide (B).
 
-![](images\P35%208%20Exemplos%20de%20metamorfismo.png)
+![](images/P35&#32;8&#32;Exemplos&#32;de&#32;metamorfismo.png)
