@@ -9,13 +9,13 @@ São rochas que se formam à superfície da crusta, cobrindo cerca de 75% da sup
 1. **Meteorização física e química** – alteração das rochas, originando partículas cada vez mais pequenas e modificando os minerais das rochas (met. física e química, respetivamente);
 2. **Erosão** – remoção de partículas já alteradas (sedimentos) pela ação de agentes erosivos;
 3. **Transporte** das partículas erodidas pelas correntes (como a das águas ou do vento) para outros locais mais longínquos;
-4. **Deposição** dos sedimentos quando as condições do meio são favoráveis;
+4. **Deposição** dos sedimentos quando as condições do meio são favoráveis em depressões da superfície terrestre – bacias de sedimentação;
 
 	Os sedimentos vão-se acumulando, dando origem a **estratos**, camadas que inicialmente se encontram na horizontal. Os estratos têm um limite superior e um limite inferior, o **teto** e o **muro**.
 
 	![Etapas iniciais da formação de rochas sedimentares](images/P32&#32;3&#32;Etapas&#32;iniciais&#32;da&#32;formação&#32;de&#32;rochas&#32;sedimentares.png)
 
-5. **Diagénese** – processo que engloba a **compactação** e **cimentação** que são responsáveis por transformar os sedimentos (rochas sedimentares não consolidadas) em rochas sedimentares (consolidadas).
+5. **Diagénese** – processo que engloba a **compactação** e **cimentação** que são responsáveis por transformar os sedimentos (rochas sedimentares não consolidadas) em rochas sedimentares (consolidadas). Exemplos: areia forma arenitos; silte forma siltitos, argila forma argilitos.
 
 	![Ciclo das rochas sedimentares](images/P33&#32;5&#32;Ciclo&#32;das&#32;rochas&#32;sedimentares.png)
 
