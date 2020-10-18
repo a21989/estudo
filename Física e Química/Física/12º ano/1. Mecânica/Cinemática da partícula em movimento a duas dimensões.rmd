@@ -1,0 +1,79 @@
+---
+title: "Cinemática da partícula em movimento a duas dimensões"
+output: html_document
+---
+
+## Vetor posição, $\vec{r}$, e lei do movimento
+
+$$\vec{r} = \vec{r}_x + \vec{r}_y + \vec{r}_z$$
+
+Sendo:
+
+* $\vec{r}_x = x \ \vec{e}_x$
+* $\vec{r}_y = y \ \vec{e}_y$
+* $\vec{r}_z = z \ \vec{e}_z$
+
+Também se pode escrever:
+
+$$\vec{r} = x \ \vec{e}_x + y \ \vec{e}_y + z \ \vec{e}_z$$
+(Lei do movimento)
+
+Em que x, y e z são as coordenadas de posição.
+
+O módulo do vetor posição é dado por:
+
+$$|\vec{r}| = \sqrt{x^2 + y^2 + z^2}$$
+
+## Equações paramétricas do movimento (a duas dimensões)
+
+As equações paramétricas, também chamadas de equações cartesianas do movimento, **indicam como variam as coordenadas de posição em função do tempo.**
+
+$$\begin{cases}
+    x = x(t)\\
+	y = y(t)
+  \end{cases} \quad (\text{SI})$$
+
+### Equação vetorial do movimento
+
+$$\vec{r}(t) = x(t) \ \vec{e}_x + y(t) \ \vec{e}_y$$
+
+Um movimento a duas dimensões pode ser interpretado como a composição de dois movimentos a uma dimensão.
+
+## Classificar o movimento
+
+* Um **movimento retilíneo uniforme** pode ser identificado pela dependência temporal (linear em $t$) da equação paramétrica.
+
+$$x(t) = x_0 + vt$$
+
+* Um **movimento retilíneo uniformemente variado** pode ser identificado pela dependência temporal (com um termo em $t^2$ da equação paramétrica.
+
+$$x(t) = x_0 + v_0t + \frac{1}{2}at^2$$
+
+## Equação da trajetória, $y(x)$
+
+Em alguns casos, é possível obter a **equação da trajetória**, $y(x)$, a partir das equações paramétricas, $x = x(t)$ e $y = y(t)$ , por eliminação do parâmetro tempo, $t$, no sistema constituído por essas equações.
+
+## Deslocamento, $\Delta\vec{r}$
+
+* $\vec{r}_1 = x_1 \ \vec{e}_x + y_1 \ \vec{e}_y$
+* $\vec{r}_2 = x_2 \ \vec{e}_x + y_2 \ \vec{e}_y$
+
+Dado que o corpo se desloca do ponto 1 para o ponto 2:
+
+$$\Delta \vec{r} = \vec{r}_2 - \vec{r}_1 \Longleftrightarrow \\
+\Longleftrightarrow \Delta \vec{r} = (x_1 \ \vec{e}_x + y_1 \ \vec{e}_y) - (x_2 \ \vec{e}_x + y_2 \ \vec{e}_y) \Longleftrightarrow \\
+\Delta \vec{r} = (x_2 - x_1) \ \vec{e}_x + (y_2 - y_1) \ \vec{e}_y$$
+
+## Velocidade média e velocidade
+
+### Velocidade média, $\vec{v}_m$
+
+$$\vec{v}_m = \frac{\Delta \vec{r}}{\Delta t}$$
+
+### Velocidade instantânea, $\vec{v}$
+
+A velocidade, $\vec{v}$, é a **derivada temporal do vetor posição**.
+
+$$\vec{v} = \frac{d \vec{r}}{d t}$$
+
+É sempre tangente à trajetória e o seu módulo indica a rapidez do movimento.
