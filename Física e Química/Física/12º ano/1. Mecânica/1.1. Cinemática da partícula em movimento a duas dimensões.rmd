@@ -1,5 +1,5 @@
 ---
-title: "Cinemática da partícula em movimento a duas dimensões"
+title: "1.1. Cinemática da partícula em movimento a duas dimensões"
 output: html_document
 ---
 
@@ -76,4 +76,65 @@ A velocidade, $\vec{v}$, é a **derivada temporal do vetor posição**.
 
 $$\vec{v} = \frac{d \vec{r}}{d t}$$
 
-É sempre tangente à trajetória e o seu módulo indica a rapidez do movimento.
+É sempre tangente à trajetória, em cada ponto, e tem o sentido do movimento. O seu módulo indica a rapidez do movimento.
+
+## Aceleração média e aceleração
+
+### Aceleração média, $\vec{a}_m$
+
+$$\vec{v}_m = \frac{\Delta \vec{v}}{\Delta t}$$
+
+Tem direção e sentido da variação da velocidade, $\Delta \vec{v}$.
+
+### Aceleração instantânea, $\vec{a}$
+
+A aceleração, $\vec{a}$, é a **derivada temporal da velocidade**.
+
+$$\vec{v} = \frac{d \vec{v}}{d t}$$
+
+O módulo da aceleração é dado por:
+
+$$|\vec{a}| = \sqrt{a_x^2 + a_y^2} \quad \text{OU} \quad |\vec{a}| = \sqrt{a_t^2 + a_n^2}$$
+
+## Produto escalar (ou produto interno) de dois vetores
+
+$$\vec{v} \centerdot \vec{a} = |\vec{v}| |\vec{a}| \cos \theta$$
+
+Sendo que:
+
+* $\vec{v} \centerdot \vec{a} = v_x \ a_x + v_y \ a_y$
+* $\theta$ é o ângulo entre os dois vetores
+
+Se o ângulo $\theta$ entre $\vec{v}$ e $\vec{a}$ for diferente de zero, o movimento é **curvilíneo**.
+
+## Componentes tangencial e normal da aceleração
+
+$$\vec{a} = \vec{a}_t + \vec{a}_n \Longleftrightarrow \\
+\Longleftrightarrow \vec{a} = a_t \ \vec{e}_t + a_n \ \vec{e}_n$$
+
+### Componente tangencial
+
+$$a_t = \frac{dv}{dt}$$
+
+Nota: $v \equiv |\vec{v}|$
+
+| $a_t$ | Movimento(s) |
+| :---: | :---: |
+| $= 0$ | uniforme(s) |
+| $= \text{constante}$ | uniformemente variado(s) |
+| $\ne \text{constante}$ | variado(s) |
+
+### Componente normal
+
+$$a_n = \frac{v^2}{r}$$
+
+Em que $r$ é o raio de curvatura da trajetória no ponto.
+
+$$r = \infty \Rightarrow a_n = 0$$
+
+| $a_n$ | Movimento(s) |
+| :---: | :---: |
+| $= 0$ | retilíneo(s) |
+| $\ne 0$ | curvilíneo(s) |
+
+Numa trajetória circular, o raio de curvatura coincide com o raio da cifcunferência. Mas, numa trajetória curvilínea, não circular, o raio de curvatura está sempre a mudar.
