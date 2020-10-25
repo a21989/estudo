@@ -1,0 +1,46 @@
+---
+title: "1.2. Introdução ao cálculo combinatório"
+output: html_document
+---
+
+## Cardinal do produto cartesiano de conjuntos
+
+$$\# (A \times B) = \# A \times \# B$$
+
+## Partes de um conjunto
+
+$$\# P(E) = 2^n \quad , n = \# E$$
+
+## Arranjos com repetição (ou completos)
+
+$$^nA'_p = n^p$$
+
+## Permutações
+
+$$P(n) = n!$$
+
+**Nota:** $n! = n \times (n-1) \times (n-2) \times \ldots \times 2 \times 1$
+
+Por convenção, tem-se: $0! = 1$
+
+$n! = n \times (n-1) \times (n-2)!$
+
+## Arranjos sem repetição
+
+$$^nA_p = \frac{n!}{(n-p)!} \quad, n \geqslant p$$
+
+$$^nA_p = ^nC_p \times p!$$
+
+## Combinações
+
+$$^nC_p = \frac{^nA_p}{p!}$$
+
+$$^nC_p = \frac{n!}{(n-p)! \times p!}$$
+
+**Repara que:** $^nC_p = ^nC_{n-p}$
+
+## Permutações com repetição
+
+O número de permutações com $n$ elementos, dos quais $n_1$ são repetidos, $n_2$ são repetidos, …, $n_k$ são repetidos, é igual a:
+
+$$\frac{n!}{n_1! \times n_2! \times \ldots \times n_k!}$$
