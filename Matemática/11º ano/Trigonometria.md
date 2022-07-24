@@ -17,14 +17,14 @@ $$ \tan \alpha = \frac{\sin \alpha}{\cos \alpha} $$
 
 $$ \sin^2 \alpha + \cos^2 \alpha = 1 $$
 
-### $\cos$ em evidência
+### Dividir tudo por $\cos^2 \alpha$
 
 $$ \frac{\sin^2 \alpha}{\cos^2 \alpha} + \frac{\cos^2 \alpha}{\cos^2 \alpha} + \frac{1}{\cos^2 \alpha} \Leftrightarrow $$
 $$ \Leftrightarrow \tan^2 \alpha + 1 = \frac{1}{\cos^2 \alpha} $$
 
 ## Tabela(s) Trigonométrica
 
-| | 30° | 45° | 60° |
+| | 30° / $\frac{\pi}{6}$ rad | 45° / $\frac{\pi}{4}$ rad | 60° $\frac{\pi}{3}$ rad |
 | ---: | :---: | :---: | :---: |
 | **$\sin \alpha$** | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
 | **$\cos \alpha$** | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |

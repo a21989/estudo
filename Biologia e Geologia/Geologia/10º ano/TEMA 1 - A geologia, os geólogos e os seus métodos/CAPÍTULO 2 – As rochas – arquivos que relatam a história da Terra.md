@@ -51,8 +51,8 @@ Existem dois tipos de metamorfismo primário:
 
 ## **2.3** Ciclo das rochas
 
-Durante o afundamento das rochas sedimentares, o aumento de pressão e temperatura leva à formação de **rochas metamórficas**. Se este aumento for de tal maneira, os materiais fundem-se dando origem a **magma**. Incia-se assim o processo de formação das **rochas magmáticas**. Podemos considerar como ponto de partida o magma.  
-Se o magma em profundidade, ascender devido à sua fluidez e solidificar à superfície, dá origem às rochas magmáticas **extrusivas**. No entento, se o magma não ascender e solidificar no interior da crusta, dá origem às rochas magmáticas **intrusivas**.
+Durante o afundamento das rochas sedimentares, o aumento de pressão e temperatura leva à formação de **rochas metamórficas**. Se este aumento for de tal maneira, os materiais fundem-se dando origem a **magma**. Inicia-se assim o processo de formação das **rochas magmáticas**. Podemos considerar como ponto de partida o magma.  
+Se o magma em profundidade, ascender devido à sua fluidez e solidificar à superfície, dá origem às rochas magmáticas **extrusivas**. No entanto, se o magma não ascender e solidificar no interior da crusta, dá origem às rochas magmáticas **intrusivas**.
 
 ![Formação das rochas magmáticas intrusivas e extrusivas](images/P37&#32;9&#32;Formação&#32;das&#32;rochas&#32;magmáticas&#32;intrusivas&#32;e&#32;extrusivas.png)
 
